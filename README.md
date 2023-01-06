@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on CardioBox (A startup founded by [Elvis Rozario][elvis], [Shalom George][shalom], [Sumit Bopche][sumit] and Me)
 - 🌱 I’m also strengthening my skills in JavaScript, React JS and whatever comes along the way.
 - 🤔 I’m constantly looking for ways to expand my horizons.
-- ⚡ 2020 Goal: To have a substantial amount of users for CardioBox
+- ⚡ 2023 Goal: To work for a company that makes an imapact.
 
 ### Connect with me:
 [<img align="left" alt="skinniK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][linkedin]
